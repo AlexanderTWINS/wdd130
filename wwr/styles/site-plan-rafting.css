@@ -18,8 +18,8 @@
 
 body {
     font-family: var(--paragraph-font);
-    max-width: 960px;
-    padding: 20px;
+    max-width: 961px;
+    padding: 21px;
 }
 
 h1, h2, h3, h4, h5, h6 {
